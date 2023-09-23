@@ -1,6 +1,6 @@
 # Rich Dad Poor Dad ⚖
 
-![book_cover](image/Rich_Dad_Poor_Dad/1695456649806.png)
+![1695457052409](image/Rich_Dad_Poor_Dad/1695457052409.png)
 
 * There is a difference in between being poor and being broke, **Broke is temporary**, Poor is eternal.
 * **Life is the best teacher of all**. Most of the time, life dosen't talk to you. It just sort of pushes you around. Each push is life saying, " ***Wake up, There's something I want you to learn*** ".
